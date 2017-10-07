@@ -1,5 +1,5 @@
 # hello-world
-Keeping up the good coding
+Keeping up the good coding:
 I am making these changes because:
 	I am playing around in github:
 		making commit, pulling and pushing:
